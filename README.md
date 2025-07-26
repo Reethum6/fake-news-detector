@@ -15,13 +15,3 @@ A web app built with **Python**, **Streamlit**, and **Scikit-learn** that classi
 - ✅ Built using Logistic Regression and TF-IDF vectorizer
 
 ---
-
-## 📂 Project Structure
-
-bash
-├── app.py                  # Streamlit UI
-├── fake_news_detector.py  # Model training & saving
-├── model.pkl               # Saved Logistic Regression model
-├── vectorizer.pkl          # TF-IDF vectorizer
-├── requirements.txt        # Python dependencies
-└── README.md               # Project description
