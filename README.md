@@ -2,7 +2,9 @@
 
 A professional-grade web app built with **Python**, **Streamlit**, and **Scikit-learn** that classifies news articles as **REAL** or **FAKE** based on their text content.
 
-![App Screenshot](./images/streamlitapp.png) <!-- Replace with actual image path -->
+C:\Users\DELL\Downloads\fake-news-detector\images\
+
+ <!-- Replace with actual image path -->
 
 ---
 
