@@ -1,8 +1,8 @@
 # 📰 Fake News Detector with Machine Learning
 
-A professional-grade web app built with **Python**, **Streamlit**, and **Scikit-learn** that classifies news articles as **REAL** or **FAKE** based on their text content.
+A  web app built with **Python**, **Streamlit**, and **Scikit-learn** that classifies news articles as **REAL** or **FAKE** based on their text content.
 
-C:\Users\DELL\Downloads\fake-news-detector\images\
+![App Screenshot](https://raw.githubusercontent.com/Reethum6/fake-news-detector/main/images/streamlitapp.png)
 
  <!-- Replace with actual image path -->
 
