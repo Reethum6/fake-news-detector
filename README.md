@@ -18,7 +18,7 @@ A web app built with **Python**, **Streamlit**, and **Scikit-learn** that classi
 
 ## 📂 Project Structure
 
-```bash
+bash
 ├── app.py                  # Streamlit UI
 ├── fake_news_detector.py  # Model training & saving
 ├── model.pkl               # Saved Logistic Regression model
